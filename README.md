@@ -4,6 +4,11 @@
 
 - 📫 How to reach me smathsphysis@gmail.com
 
+## Please checkout my work:
+
+### PersonAPI-DIO (https://github.com/Mathsphysis/personapi-dio)
+Spring Boot REST API using lombok, Spring Data JPA, MVC Pattern, Swagger, Postman, MapStruct and several other important concepts in the Spring Boot Webdevelopment Framework.
+
 <!---
 Mathsphysis/Mathsphysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
