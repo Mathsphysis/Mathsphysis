@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathsphysis
 - 👀 I’m interested in solving problems and real world challenges
-- 🌱 I’m currently learning java, php and nodejs. And their respectives frameworks for Web Development.
+- 🌱 I’m currently learning java, php and nodejs. And their respectives frameworks for BackEnd Web Development(Spring Boot, Laravel, Express).
 
 - 📫 How to reach me smathsphysis@gmail.com
 
