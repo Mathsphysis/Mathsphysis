@@ -7,7 +7,7 @@
 ## Please checkout my work:
 
 ### BeerStockAPI-DIO (https://github.com/Mathsphysis/beerstock-dio)
-Beerstock REST API developed with TDD for bootcamp project. Professor: Rodrigo Peleias 
+Beerstock REST API using Spring Boot and developed with TDD for bootcamp project. Professor: Rodrigo Peleias 
 
 ### PersonAPI-DIO (https://github.com/Mathsphysis/personapi-dio)
 Spring Boot REST API using lombok, Spring Data JPA, MVC Pattern, Swagger, Postman, MapStruct and several other important concepts in the Spring Boot Webdevelopment Framework.
