@@ -17,6 +17,9 @@ Spring Boot REST API using lombok, Spring Data JPA, MVC Pattern, Swagger, Postma
 <div>
   <img height= 180em src="https://github-readme-stats.vercel.app/api?username=Mathsphysis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true")>
   <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsphysis&layout=compact&theme=tokyonight&langs_count=16")>
+  <div>
+    <a href=https://github.com/anuraghazra/github-readme-stats>Anuraghaza's Github Readme Stats</a>
+  </div>
 </div>
 
 <div style="display: inline_block"><br>
