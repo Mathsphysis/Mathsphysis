@@ -24,10 +24,10 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/Mathsphysis/beerstock-dio">
-    <img height= 150em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=beerstock-dio&theme=tokyonight")>
+    <img align="center" height= 150em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=beerstock-dio&theme=tokyonight")>
   </a>
   <a href="https://github.com/Mathsphysis/personapi-dio">
-    <img height= 150em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=personapi-dio&theme=tokyonight")>
+    <img align="center" height= 150em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=personapi-dio&theme=tokyonight")>
   </a>
 </div>
 
