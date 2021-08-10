@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning java and nodejs. And their respectives frameworks for BackEnd Web Development(Spring Boot and Express).
 
 - 📫 How to reach me smathsphysis@gmail.com
-
+<br>
+<a href="https://www.linkedin.com/in/matheus-souza-mathsphysis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+<br>
 <div>
-  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=Mathsphysis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true")>
-  <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsphysis&layout=compact&theme=tokyonight&langs_count=16")>
+  <img height= 180em src="https://github-readme-stats.vercel.app/api?username=Mathsphysis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height= 180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathsphysis&layout=compact&theme=tokyonight&langs_count=16">
   <div>
     <a href=https://github.com/anuraghazra/github-readme-stats>Anuraghaza's Github Readme Stats</a>
   </div>
