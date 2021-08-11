@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Mathsphysis](https://github.com/Mathsphysis)
-- 👀 I love solving problems and real world challenges. And I'm interested back-end development.
+- 👀 I love solving problems and real world challenges. And I'm interested in back-end development.
 - 🌱 I’m currently learning java and nodejs. And their respectives frameworks for BackEnd Web Development(Spring Boot and Express).
 
 - 📫 How to reach me smathsphysis@gmail.com
