@@ -32,6 +32,9 @@
   <a href="https://github.com/Mathsphysis/personapi-dio">
     <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=personapi-dio&theme=tokyonight")>
   </a>
+  <a href="https://github.com/Mathsphysis/hoaxify-ws">
+    <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=hoaxify-ws&theme=tokyonight")>
+  </a>
 </div>
 
 
