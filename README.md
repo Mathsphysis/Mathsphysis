@@ -26,11 +26,14 @@
 ## Please checkout my work:
 
 <div style="display: inline_block">
-  <a href="https://github.com/Mathsphysis/beerstock-dio">
-    <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=beerstock-dio&theme=tokyonight")>
+  <a href="https://github.com/Mathsphysis/API-CRUD-DevOZ">
+    <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=API-CRUD-DevOZ&theme=tokyonight")>
   </a>
   <a href="https://github.com/Mathsphysis/personapi-dio">
     <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=personapi-dio&theme=tokyonight")>
+  </a>
+  <a href="https://github.com/Mathsphysis/beerstock-dio">
+    <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=beerstock-dio&theme=tokyonight")>
   </a>
   <a href="https://github.com/Mathsphysis/hoaxify-ws">
     <img align="center" height= 145em src="https://github-readme-stats.vercel.app/api/pin?username=Mathsphysis&repo=hoaxify-ws&theme=tokyonight")>
